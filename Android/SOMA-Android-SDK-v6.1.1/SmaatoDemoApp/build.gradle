@@ -1,0 +1,106 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://s3.amazonaws.com/moat-sdk-builds" }
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '24.0.3'
+
+    defaultConfig {
+        applicationId "com.smaato.demoapp"
+        // Smaato SDK can be used from version 15
+        minSdkVersion 18
+        targetSdkVersion 22
+        versionCode 1
+        versionName "6.1.1"
+
+        vectorDrawables.useSupportLibrary = true
+        testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+
+    dexOptions {
+        jumboMode = true
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.google.android.gms:play-services-ads:11.0.1'
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    // before uncommenting comment from settings.gradle
+
+    compile('com.mopub:mopub-sdk:4.16.1@aar') {
+        transitive = true
+    }
+
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+
+    // Set this dependency to build and run Espresso tests
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2') {
+        // Necessary if your app targets Marshmallow (since the test runner
+        // hasn't moved to Marshmallow yet)
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    // add this for intent mocking support
+    androidTestCompile('com.android.support.test.espresso:espresso-intents:2.2.2') {
+        // Necessary if your app targets Marshmallow (since the test runner
+        // hasn't moved to Marshmallow yet)
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    // add this for webview testing support
+    androidTestCompile('com.android.support.test.espresso:espresso-web:2.2.2'){
+        // Necessary if your app targets Marshmallow (since the test runner
+        // hasn't moved to Marshmallow yet)
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+
+    androidTestCompile('com.android.support.test:runner:0.3') {
+        // Necessary if your app targets Marshmallow (since the test runner
+        // hasn't moved to Marshmallow yet)
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+
+    androidTestCompile ('com.android.support.test:runner:0.5') {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    androidTestCompile ('com.android.support.test:rules:0.5') {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    androidTestCompile ('com.android.support.test.uiautomator:uiautomator-v18:2.1.2') {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
+
+}

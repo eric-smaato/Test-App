@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionClass</key>
+		<string>SMTCustomAdOptionExpandableTableSection</string>
+		<key>title</key>
+		<string>Select ad type you wish to receive</string>
+		<key>expandableCellTitle</key>
+		<string>Ad Type</string>
+		<key>expandableCellIdentifer</key>
+		<string>smtCustomAdOptionExpandableCellIdentifier</string>
+		<key>defaultCellIdentifier</key>
+		<string>smtCustomAdOptionCellIdentifier</string>
+		<key>valueTypeIsSize</key>
+		<false/>
+		<key>settingKey</key>
+		<string>type</string>
+		<key>values</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Any</string>
+				<key>description</key>
+				<string>Any ad type</string>
+				<key>value</key>
+				<string>ALL</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Text</string>
+				<key>description</key>
+				<string>Static text ads</string>
+				<key>value</key>
+				<string>TXT</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Image</string>
+				<key>description</key>
+				<string>Static and/or dynamic image ads</string>
+				<key>value</key>
+				<string>IMG</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Video</string>
+				<key>description</key>
+				<string>Video starts without user interaction</string>
+				<key>value</key>
+				<string>VIDEO</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Rich Media</string>
+				<key>description</key>
+				<string>Interactive ads</string>
+				<key>value</key>
+				<string>RICHMEDIA</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionClass</key>
+		<string>SMTCustomAdOptionExpandableTableSection</string>
+		<key>title</key>
+		<string>Select ad dimension. It will override width+height</string>
+		<key>expandableCellTitle</key>
+		<string>Dimension</string>
+		<key>expandableCellIdentifer</key>
+		<string>smtCustomAdOptionExpandableCellIdentifier</string>
+		<key>defaultCellIdentifier</key>
+		<string>smtCustomAdOptionCellIdentifier</string>
+		<key>valueTypeIsSize</key>
+		<false/>
+		<key>settingKey</key>
+		<string>dimension</string>
+		<key>values</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Any</string>
+				<key>description</key>
+				<string>Any dimension</string>
+				<key>value</key>
+				<string>Any</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>XXLarge</string>
+				<key>description</key>
+				<string>320x50</string>
+				<key>value</key>
+				<string>XXLARGE</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>XLarge</string>
+				<key>description</key>
+				<string>300x50</string>
+				<key>value</key>
+				<string>XLARGE</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>MMA</string>
+				<key>description</key>
+				<string>Any MMA dimension</string>
+				<key>value</key>
+				<string>MMA</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Medium Rectangle</string>
+				<key>description</key>
+				<string>300x250</string>
+				<key>value</key>
+				<string>MEDRECT</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Leaderboard</string>
+				<key>description</key>
+				<string>728x90</string>
+				<key>value</key>
+				<string>LEADER</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Skyscraper</string>
+				<key>description</key>
+				<string>120x600</string>
+				<key>value</key>
+				<string>SKY</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionClass</key>
+		<string>SMTCustomAdOptionExpandableTableSection</string>
+		<key>title</key>
+		<string>Select width+height to resize the banner view</string>
+		<key>expandableCellTitle</key>
+		<string>Width/Height</string>
+		<key>expandableCellIdentifer</key>
+		<string>smtCustomAdOptionExpandableCellIdentifier</string>
+		<key>defaultCellIdentifier</key>
+		<string>smtCustomAdOptionCellIdentifier</string>
+		<key>valueTypeIsSize</key>
+		<true/>
+		<key>settingKey</key>
+		<string>widthHeight</string>
+		<key>values</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Any</string>
+				<key>description</key>
+				<string>Any size</string>
+				<key>value</key>
+				<string>Any</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>120x20</string>
+				<key>description</key>
+				<string>MMA: Small Image Banner</string>
+				<key>value</key>
+				<string>120x20</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>120x30</string>
+				<key>description</key>
+				<string>MMA: Small High Image Banner</string>
+				<key>value</key>
+				<string>120x30</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>168x28</string>
+				<key>description</key>
+				<string>MMA: Medium Image Banner</string>
+				<key>value</key>
+				<string>168x28</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>168x42</string>
+				<key>description</key>
+				<string>MMA Medium High Image Banner</string>
+				<key>value</key>
+				<string>168x42</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>216x36</string>
+				<key>description</key>
+				<string>MMA: Large Image Banner</string>
+				<key>value</key>
+				<string>216x36</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>216x54</string>
+				<key>description</key>
+				<string>MMA: Large High Image Banner</string>
+				<key>value</key>
+				<string>216x54</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>300x50</string>
+				<key>description</key>
+				<string>MMA: X-Large Image Banner</string>
+				<key>value</key>
+				<string>300x50</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>320x50</string>
+				<key>description</key>
+				<string>MMA: XX-Large Image Banner</string>
+				<key>value</key>
+				<string>320x50</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>300x250</string>
+				<key>description</key>
+				<string>IAB: Medium Rectangle</string>
+				<key>value</key>
+				<string>300x250</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>180x150</string>
+				<key>description</key>
+				<string>IAB: Rectangle</string>
+				<key>value</key>
+				<string>180x150</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>728x90</string>
+				<key>description</key>
+				<string>IAB: Leaderboard</string>
+				<key>value</key>
+				<string>728x90</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>160x600</string>
+				<key>description</key>
+				<string>IAB: Wide Skyscraper</string>
+				<key>value</key>
+				<string>160x600</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>120x600</string>
+				<key>description</key>
+				<string>IAB: Skyscraper</string>
+				<key>value</key>
+				<string>120x600</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>320x480</string>
+				<key>description</key>
+				<string>Interstitial: iPhone</string>
+				<key>value</key>
+				<string>320x480</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>320x568</string>
+				<key>description</key>
+				<string>Interstitial: iPhone/iPod (4&apos;&apos;)</string>
+				<key>value</key>
+				<string>320x568</string>
+				<key>iPadOnly</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>1024x768</string>
+				<key>description</key>
+				<string>Interstitial: iPad</string>
+				<key>value</key>
+				<string>1024x768</string>
+				<key>iPadOnly</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionClass</key>
+		<string>SMTCustomAdOptionDefaultTableSection</string>
+		<key>title</key>
+		<string>General settings</string>
+		<key>values</key>
+		<array>
+			<string>smtCustomAdLogOptionTableViewCellId</string>
+			<string>smtCustomDrawBorderOptionTableViewCellId</string>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewControllerId</key>
+		<string>customAdViewController</string>
+		<key>title</key>
+		<string>Custom Ad</string>
+		<key>description</key>
+		<string>Configure and customize Ad</string>
+		<key>icon</key>
+		<string>95-equalizer_black</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>textAdViewController</string>
+		<key>title</key>
+		<string>Text Ad</string>
+		<key>description</key>
+		<string>Shows only text Ad</string>
+		<key>icon</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>imageAdViewController</string>
+		<key>title</key>
+		<string>Image Ad</string>
+		<key>description</key>
+		<string>Shows only image Ad</string>
+		<key>icon</key>
+		<string>121-landscape</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>toasterAdViewController</string>
+		<key>title</key>
+		<string>Toaster Ad</string>
+		<key>description</key>
+		<string>Shows a toaster ad</string>
+		<key>icon</key>
+		<string>toaster</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>iAdViewController</string>
+		<key>title</key>
+		<string>Apple iAd</string>
+		<key>description</key>
+		<string>Shows iAd from Apple</string>
+		<key>icon</key>
+		<string>iAd</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>fullscreenAdViewController</string>
+		<key>title</key>
+		<string>Fullscreen Ad</string>
+		<key>description</key>
+		<string>Shows Fullscreen Ad</string>
+		<key>icon</key>
+		<string>272-windows</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>videoAdViewController</string>
+		<key>title</key>
+		<string>Video Ad</string>
+		<key>description</key>
+		<string>Shows Video Ad</string>
+		<key>icon</key>
+		<string>280-clapboard</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>richMediaAdViewController</string>
+		<key>title</key>
+		<string>Rich Media Ad</string>
+		<key>description</key>
+		<string>Shows rich media Ad</string>
+		<key>icon</key>
+		<string>137-presentation</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>interstitialAdViewController</string>
+		<key>title</key>
+		<string>Interstitial Ad</string>
+		<key>description</key>
+		<string>Shows interstitial Ad</string>
+		<key>icon</key>
+		<string>247-dancesteps</string>
+	</dict>
+</array>
+</plist>

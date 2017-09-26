@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>viewControllerId</key>
+		<string>leaderboardAdViewController</string>
+		<key>title</key>
+		<string>Leaderboard Ad</string>
+		<key>description</key>
+		<string>Shows a long horizontal leaderboard Ad</string>
+		<key>icon</key>
+		<string>leaderboard</string>
+		<key>compatibleDeviceFamily</key>
+		<string>ipad</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>skyscraperViewController</string>
+		<key>title</key>
+		<string>Skyscraper Ad</string>
+		<key>description</key>
+		<string>Shows a long vertical skyscraper Ad</string>
+		<key>icon</key>
+		<string>skyscraper</string>
+		<key>compatibleDeviceFamily</key>
+		<string>ipad</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>imageAdViewController</string>
+		<key>title</key>
+		<string>Banner Ad</string>
+		<key>description</key>
+		<string>MMA Banners</string>
+		<key>icon</key>
+		<string>121-landscape</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>textAdViewController</string>
+		<key>title</key>
+		<string>Text Ad</string>
+		<key>description</key>
+		<string>Shows only text Ad</string>
+		<key>icon</key>
+		<string>text</string>
+		<key>compatibleDeviceFamily</key>
+		<string>none</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>toasterAdViewController</string>
+		<key>title</key>
+		<string>Toaster Ad</string>
+		<key>description</key>
+		<string>Shows a toaster ad</string>
+		<key>icon</key>
+		<string>toaster</string>
+		<key>compatibleDeviceFamily</key>
+		<string>iphone</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>customAdViewController</string>
+		<key>title</key>
+		<string>Custom Ad</string>
+		<key>description</key>
+		<string>Configure and customize Ad</string>
+		<key>icon</key>
+		<string>95-equalizer_black</string>
+		<key>compatibleDeviceFamily</key>
+		<string>none</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>richMediaAdViewController</string>
+		<key>title</key>
+		<string>Rich Media Ad</string>
+		<key>description</key>
+		<string>Shows rich media Ad</string>
+		<key>icon</key>
+		<string>137-presentation</string>
+		<key>compatibleDeviceFamily</key>
+		<string>none</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>mediamRectangleAdViewController</string>
+		<key>title</key>
+		<string>Medium Rectangle Ad</string>
+		<key>description</key>
+		<string>Shows Ad in a medium rectangle</string>
+		<key>icon</key>
+		<string>rectangle</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>interstitialAdViewController</string>
+		<key>title</key>
+		<string>Interstitial Ad</string>
+		<key>description</key>
+		<string>Shows interstitial Ad</string>
+		<key>icon</key>
+		<string>247-dancesteps</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>vastAdViewController</string>
+		<key>title</key>
+		<string>VAST Video Ad</string>
+		<key>description</key>
+		<string>Shows VAST Video Ad</string>
+		<key>icon</key>
+		<string>videoAd</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>rewardedVideoAdViewController</string>
+		<key>title</key>
+		<string>Rewarded Video Ad</string>
+		<key>description</key>
+		<string>Shows Rewarded Video Ad</string>
+		<key>icon</key>
+		<string>videoAd</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>SMTNativeAdListViewController</string>
+		<key>title</key>
+		<string>Native Ad</string>
+		<key>description</key>
+		<string>Shows Native Ad</string>
+		<key>icon</key>
+		<string>lego</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>viewControllerId</key>
+		<string>SMTClientSideMediationExample</string>
+		<key>title</key>
+		<string>Client Side Mediation</string>
+		<key>description</key>
+		<string>Integrates Client Side Mediation</string>
+		<key>icon</key>
+		<string>lego</string>
+		<key>compatibleDeviceFamily</key>
+		<string>All</string>
+	</dict>
+</array>
+</plist>

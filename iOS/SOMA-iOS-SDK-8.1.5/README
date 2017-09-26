@@ -1,0 +1,63 @@
+Developer Documentation and Integration Guide:
+https://wiki.smaato.com/display/SPX/iOS 
+
+
+
+# Release Notes
+
+SOMA iOS SDK Release notes v7.1.4
+====================================
+
+1. IOS-675 FIXED: interstitial is not handling device orientation correctly
+2. IOS-672 FIXED: Toaster Close button 
+3. IOS-671 FIXED: non-standard user-agent in ad request
+4. IOS-673 FIXED: user agent is not set in vast event tracking
+5. IOS-674 FIXED: adview couldn’t be hidden in iAd mediation
+6. IOS-641 FIXED: crash related to soma signal handler
+7. IOS-676 FIXED: webkit crashes when creating MRAID calendar event
+8. IOS-680 FIXED: AutoExpansion reporting is not working correcly
+9. IOS-638 Discard vast media files with invalid schemewasn’t receiving touch 
+10. IOS-617 Updated unity plugin to work with Unity 5.1 
+
+
+SOMA iOS SDK Release notes v7.1.3
+====================================
+
+1. Simplified isCovered checking
+2. Beacon loading opitmization
+
+SOMA iOS SDK Release notes v7.1.2
+====================================
+
+1. Fixed bugs
+2. Opitmization
+3. Updated for Unity 5
+
+
+SOMA iOS SDK Release notes v7.1.1
+====================================
+
+1. Fixed bugs
+2. Opitmization
+3. Updated Native Ad Support
+
+
+SOMA iOS SDK Release notes v7.1.0
+====================================
+
+1. Added support for VAST Video ad
+2. Added VAST Demo in demo app
+3. Performance optimization and bug fixing
+4. Added AdobeAirPlugin
+
+
+
+OMA iOS SDK Release notes v7.0.2
+====================================
+
+1. Fixed a bug that disabled showing ads on some modal views
+2. Test ads will be always served on Simulator
+3. Ad format will be ignored in requesting ad i.e. An Image ad view may show text or richmedia ads.
+4. Unity plugin is updated to handle device rotation
+5. MoPub interstitial adapters added
+6. Skyescraper and Leaderboard ad layout is updated in the demo app
