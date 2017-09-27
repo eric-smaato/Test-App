@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebase-ads-11.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ec9da3e820ec84ec9e6cfed7eef12251e5b15bba/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ec9da3e820ec84ec9e6cfed7eef12251e5b15bba/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

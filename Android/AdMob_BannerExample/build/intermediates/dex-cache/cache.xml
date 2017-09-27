@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/a1c0fb52858128302dfb784dc828412b2a8dbeb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98c1221c29c1a146edc6be342039cc242f9773c5">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e5bb42a7896b6486cf1b3cec1b7aab35451eeb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/afbc60f95bafd546a0801dcd1ba0dade9820bea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fbea6d5e2ef099e99ddc20fe46bf52f1e4881d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/af50faaa5bb5bcfa4e094d02ec9665acdea5dfd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="700b670ed3f9cf4b240081993c6004817866985a">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ba3f53f1ab4b69e39ea490fa7c41b029947eaa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/71d5acd492c0df0bd4f03f58d2a3f0842ef62449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8afddf9ca577e164fd7d77a0acdbb51a59b927c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/ffaaf91e96450fe6d6727e976f14b356a1f5d949/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baa86ec37f94387253b097a8193055c484631718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/dba6d9dd710486ddfc03ad7ed08c1a53a5f33599/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63936b57a41b603d4849b55664da75171a997f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38daaf7b37b862ed42c9bdf98cce7fefef9519c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/cd4f8e7b5d0cbca0dffbc32adddd726655069666/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e2a100eb50a807692b01d0c113ad1696934b557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/libs/SOMAAndroidSDK6.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bf579d3f3dd4199b08b275cc0c84e3acae9e684">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/2/SOMAAndroidSDK6.1.1_0d4673d4c654f274cea9dda9aa268ffab16efb1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9175c062091d4f5e3611ffc52b7578612bdf55d">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a36a0a8b536320420440eefaaaee1ca663be795e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/07fc11fc5d9a2dbebb3942b38df3abc9fd4284ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec01950dfc584a8ebb7e7091304673223466cab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/42a4207255d2a5aa164e89ab83ff2d22e8cd7a8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6a82073d5763b24313fbe0b65b80aa8e9c9c5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/69965d343b1e20aa53c8da147d4f29e66ed8576a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3406b05483ef73b056e03b04ae46713623be71fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/d7b536b77e74044ceb3b32229e8033824feb1c5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29351c3d9a304dc81f285e699d4cb5e73712ce1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/be337465adcc29bb5efcf92b173b5c6d9acf72c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4350190a99a82fad676cea0d682671d2949fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/cc5f4d975256702c8522f30d9bbe1fb80918f78d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be4d23316f858aaca580c9fed45c0777ae922b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/4017018ac699fdadf8889d7991cfaa67bf7c4bea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2aa2ee3fa4e1fb48795fc9f974a877530c5ab73a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/e28b556c1f171da1269d9ee3ba764837afd34cac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e4ebce66ef7030a3323b99ea9bd110e74590021/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/3ff93eb4564afcd17fb24cb25fb246b5d1cfa218/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5138b8fa918f324c3f41fe356f736601c21bcb52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/99c13a7acb95c9d072f01d9552a8352d22cb38c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf269ec75376869ab52fecee7a51f8e0c5b77414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_ba343fa960e9a9a9bed65815df1a77c029574be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/c7b2d1d5fe39d64ebb2b0cccc51b21a8a16cf6db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f678e5f820c2756bfed5b15118152b4c1845e7a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/1ac0e810dfa193096c967e6373db7d820d9f19d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2484ee9a66188155c9c792ff279d4a34c8e1d22e">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b4cedeaa4c4864e83e308d9783e452efd3fbc08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/ad073e810dd4e60832ea9c5f8f34a99b6ff127a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2018b324dbe57d9a1304a0b6a97ece59de258da6">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7d77885a3b5bbecf09d4fdaab4656bfcd0e7664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/.android/build-cache/5c6499b5c439fd1600856065ac3885728f9fa81f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1037ab84e0e911899ae4d7f0f3e27ef4da1a747/classes.dex" />
+    </item>
+
+</items>

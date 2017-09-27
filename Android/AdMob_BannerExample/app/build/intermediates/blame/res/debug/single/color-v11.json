@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/eric.cruz/.android/build-cache/99c13a7acb95c9d072f01d9552a8352d22cb38c8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/eric.cruz/Desktop/Test-Apps/Android/AdMob_BannerExample/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/eric.cruz/.android/build-cache/99c13a7acb95c9d072f01d9552a8352d22cb38c8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
