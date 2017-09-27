@@ -42,7 +42,9 @@ public class MyActivity extends AppCompatActivity {
         // Create an ad request. Check logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
         // "Use AdRequest.Builder.addTestDevice("ABCDEF012345") to get test ads on this device."
-        PublisherAdRequest adRequest = new PublisherAdRequest.Builder().build();
+        PublisherAdRequest adRequest = new PublisherAdRequest.Builder()
+                //.addTestDevice("172CC4E642452E2F331EE4A7CF8A61AD")
+                .build();
 
         // Start loading the ad in the background.
         mAdView.loadAd(adRequest);

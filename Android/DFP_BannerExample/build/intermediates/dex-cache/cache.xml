@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d95b65ebde5414bfb7362fc73a4cf0caa1653c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/libs/SOMAAndroidSDK6.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bf579d3f3dd4199b08b275cc0c84e3acae9e684">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/2/SOMAAndroidSDK6.1.1_b7d26b29f25a81461343217716228397b6a95d58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ed5820518fc33669f239c823a24e139807f2e04">
+        <dex dex="/Users/eric.cruz/Desktop/Test-Apps/Android/DFP_BannerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6b844a2892689a9275f3866be8be08d585cb6572/classes.dex" />
+    </item>
+
+</items>
