@@ -27,6 +27,7 @@
 }
 
 - (void)somaAdViewWillLoadAd:(SOMAAdView*)adview{
+    adview.adSettings.autoplayAudioVideoDisabled = YES;
 	NSLog(@"Ad View Will Load");
 }
 
